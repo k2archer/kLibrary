@@ -11,7 +11,7 @@ Android 前端(客户端)<------->应用服务器(服务端) <---------> MySQL(�
 Web 后台管理(客户端)<----------------^
 ```
 * **服务端**
-Linux, C++11，实现 HTTP/1.0 标准的 GET|POST 请求，支持 CGI 脚本。
+Linux, C++11，实现 HTTP/1.0 标准的 GET|~~POST 请求~~，支持 CGI 脚本。
 * **Android 客户端**
 使用 HTTP  API  + JSON 与服务端通信。
 * **Web 后台管理**
@@ -30,7 +30,7 @@ CGI Python 脚本生成 HTML 。
 
 * E - R 图
 
-![](image/E-R.jpg)
+![](https://raw.githubusercontent.com/k2archer/kLibrary/master/docs/image/E-R.JPG)
 
 
 

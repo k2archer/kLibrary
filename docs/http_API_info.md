@@ -38,4 +38,9 @@ http://api.xxx.com/service/v1.0/album/delete
 
 
 
+* 接口参数
+| 接口 | 参数列表  | 返回参数表|
+| ----- | --------- |-------|
+| login.cgi?user=xxx&pass=xxx |user \| password     |登录状态|
+| order.cgi?user=xxx |user |订阅列表|
 
