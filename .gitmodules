@@ -1,3 +1,6 @@
 [submodule "src/server"]
 	path = src/server
 	url = git@github.com:k2archer/kWeb.git
+[submodule "src/androidClient"]
+	path = src/androidClient
+	url = git@github.com:k2archer/iLibrary.git
