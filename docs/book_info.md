@@ -8,12 +8,15 @@
 	book_name:
 	book_code:
 	book_cover:
+	book_author:
+	book_brief:
 ```
 
 | 字段     | 类型    | 说明      | 字段  | 类型    | 说明   |
 | -------- | ------ | -------- | ---- | ------ | ------ |
 | book_id | 整数    | 书编号、自动增长、唯一性 | book_name | 字符串  | 书名 |
-| book_code | 字符串  | 书号即 ISBN 代码 | book_cover | 字符串 | 书封面图片路径 |
+| book_code | 字符串  | 书号即 ISBN 代码 | ~~book_cover~~ | 字符串 | 书封面图片路径 |
+| ~~book_author~~ | 字符串 | 书作者名称 | ~~book_brief~~ | 字符串 | 书的简介 |
 
 
 
